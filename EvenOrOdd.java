@@ -1,7 +1,7 @@
 public class EvenOrOdd {
 
         public static void main(String[] args) {
-            int number = 10;
+            int number = 5;
 
 
             if (number % 2 == 0) {
